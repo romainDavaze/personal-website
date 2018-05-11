@@ -18,8 +18,8 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Romain Davaze"
-intro = "Software Engineer Apprentice"
-description = "Studying software engineer @ [IMTAtlantique](https://twitter.com/IMTAtlantique) <br/> Working for [GroupeSigma](https://twitter.com/groupesigma) <br/> Nantes, France "
+intro = "Software Engineer student"
+description = "Studying software engineering [@IMTAtlantique](https://twitter.com/IMTAtlantique) <br/> Working [@GroupeSigma](https://twitter.com/groupesigma) <br/> Nantes, France "
 authorimage = "me.png"
 
 ## Site Meta Settings
