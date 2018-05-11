@@ -11,7 +11,7 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rebuilding site `LC_TIME=en_EN date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
