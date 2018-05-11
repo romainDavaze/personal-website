@@ -1,0 +1,52 @@
+## Basic Configuration
+
+baseurl = "https://romainDavaze.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+dateformat = "Jan 2, 2006"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Romain Davaze"
+title = "Romain Davaze"
+
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Romain Davaze"
+intro = "Software Engineer Apprentice"
+description = "Studying software engineer @ [IMTAtlantique](https://twitter.com/IMTAtlantique) <br/> Working for [GroupeSigma](https://twitter.com/groupesigma) <br/> Nantes, France "
+authorimage = "me.png"
+
+## Site Meta Settings
+[params.meta]
+description = "Romain Davaze's personal website"
+
+## Social Accounts
+[params.social]
+github = "romainDavaze"
+linkedin = "romain-davaze"
+twitter = "rdavaze"
+email = "davaze.romain@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Romain Davaze. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "About me"
+    weight = 100
+    identifier = "about"
+    url = "/about/"
+# [[menu.main]]
+#     name = "blog"
+#     identifier = "blog"
+#     weight = 200
+#     url = "/blog/"
