@@ -11,10 +11,11 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site `LC_TIME=en_EN date`"
+msg=":rocket: Rebuilding website `LC_TIME=en_EN date` :rocket:"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
+
 git commit -m "$msg"
 
 # Push source and build repos.
