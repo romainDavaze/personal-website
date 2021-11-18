@@ -19,7 +19,7 @@ theme = "hugo-goa"
 [params]
 author = "Romain Davaze"
 intro = "Software Engineer student"
-description = "Studying software engineering [@IMTAtlantique](https://twitter.com/IMTAtlantique) <br/> Working [@GroupeSigma](https://twitter.com/groupesigma) <br/> Nantes, France "
+description = "Studying software engineering [@IMTAtlantique](https://twitter.com/IMTAtlantique) <br/> Working [@YesWeScale](https://twitter.com/YesWeScale) <br/> Nantes, France "
 authorimage = "me.png"
 
 ## Site Meta Settings
@@ -35,7 +35,7 @@ email = "davaze.romain@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Romain Davaze. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018-2021. Romain Davaze. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 hightlightjs = true
 
